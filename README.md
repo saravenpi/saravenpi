@@ -6,6 +6,7 @@
 ### My languages:
   - English
   - French
+  - Spanish
 ### My Programming languages:
   - Golang
   - Nodejs
