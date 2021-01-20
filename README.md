@@ -11,7 +11,8 @@
   - Golang
   - Nodejs
   - Html, Css, Js
-  - Php, mySql
+  - Php
+  - SQL
   - Python
 ### More about me:
   - 🔭 I’m currently working on Neptune
