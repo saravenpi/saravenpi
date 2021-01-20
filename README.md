@@ -4,14 +4,14 @@
 
 
 ### My languages:
-  -English
-  -French
+  - English
+  - French
 ### My Programming languages:
-  -Golang
-  -Nodejs
-  -Html, Css, Js
-  -Php, mySql
-  -Python
+  - Golang
+  - Nodejs
+  - Html, Css, Js
+  - Php, mySql
+  - Python
 ### More about me:
   - 🔭 I’m currently working on Neptune
   - 🌱 I’m currently learning Golang
