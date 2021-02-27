@@ -30,6 +30,6 @@
 
 ### More about me:
 
-  - 🔭 I’m currently working on @NeptuneOrg
-  - 🌱 I’m currently learning Golang
-  - 📫 How to reach me: [twitter.com/saravenpi](https://twitter.com/saravenpi)
+  - 🔭 I’m currently working on [NeptuneOrg](https://github.com/NeptuneOrg)
+  - 🌱 I’m currently learning to deploy with Kubernetes
+  - 📫 You can reach me on Twitter: [twitter.com/saravenpi](https://twitter.com/saravenpi)
