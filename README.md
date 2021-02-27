@@ -32,4 +32,4 @@
 
   - 🔭 I’m currently working on @NeptuneOrg
   - 🌱 I’m currently learning Golang
-  - 📫 How to reach me: twitter.com/saravenpi
+  - 📫 How to reach me: ![twitter.com/saravenpi](https://twitter.com/saravenpi)
