@@ -31,5 +31,5 @@
 ### More about me:
 
   - 🔭 I’m currently working on [NeptuneOrg](https://github.com/NeptuneOrg)
-  - 🌱 I’m currently learning to deploy with Kubernetes
+  - 🌱 I’m currently learning to use KrakenD gateway
   - 📫 You can reach me on Twitter: [twitter.com/saravenpi](https://twitter.com/saravenpi)
