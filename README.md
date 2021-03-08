@@ -31,5 +31,5 @@
 ### More about me:
 
   - 🔭 I’m currently working on [NeptuneOrg](https://github.com/NeptuneOrg)
-  - 🌱 I’m currently learning to use KrakenD gateway
+  - 🌱 I’m currently learning more about Vue.js
   - 📫 You can reach me on Twitter: [twitter.com/saravenpi](https://twitter.com/saravenpi)
