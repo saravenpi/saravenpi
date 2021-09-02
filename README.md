@@ -31,6 +31,6 @@
 
 ### More about me:
 
-  - 🌱 I’m currently learning more about Vue.js
+  - 🌱 I’m currently learning more about Gateways
   - 📫 You can reach me on Twitter: [twitter.com/saravenpi](https://twitter.com/saravenpi)
   - 🌱 Here is my [website](https://saravenpi.now.sh)
