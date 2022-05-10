@@ -5,8 +5,8 @@
 
 ### My languages:
 
-  - English
   - French
+  - English
   - Spanish
 
 ### My programming languages and tools:
