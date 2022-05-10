@@ -28,7 +28,7 @@
 ### More about me:
 
   - 🌱 I’m currently learning more about Gateways
-  - 📫 You can reach me on [Matrix](https://matrix.org/): [@saravenpi:matrix.org](https://twitter.com/saravenpi)
+  - 📫 You can reach me on [Matrix](https://matrix.org/): @saravenpi:matrix.org
   - 🌱 Here is my [website](https://saravenpi.now.sh)
   
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/saravenpi)
