@@ -1,11 +1,11 @@
 <h1 align="center">Hello world 👋, I'm Saravenpi</h1>
 
-### My languages:
+### My languages
   - French
   - English
   - Spanish
 
-### My programming languages and tools:
+### My programming languages and tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-### More about me:
+### More about me
 
   - 🌱 I’m currently learning more about Gateways
   - 📫 You can reach me on [Matrix](https://matrix.org/): @saravenpi:matrix.org
