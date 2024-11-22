@@ -27,7 +27,7 @@
 
 ### More about me
 
-  - 🌱 I’m currently learning more about Gateways
+  - 🌱 I’m currently working on [Marcel](https://marcel.my)
   - 📫 You can reach me on [Matrix](https://matrix.org/): @saravenpi:matrix.org
   - 🌱 Here is my [website](https://saravenpi.now.sh)
   
