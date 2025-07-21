@@ -4,6 +4,7 @@
   - French
   - English
   - Spanish
+  - Currently learning German
 
 ### My programming languages and tools
 <p align="left">
