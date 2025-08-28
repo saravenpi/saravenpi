@@ -1,10 +1,10 @@
 <h1 align="center">Hey ! I'm Sara</h1>
 
 ### My languages
-  - French
-  - English
-  - Spanish
-  - Currently learning German
+  - 🇫🇷 French (Native)
+  - 🇬🇧 English (C2)
+  - 🇪🇸 Spanish (C1)
+  - 🇩🇪 German (Currently learning)
 
 ### More about me
 
