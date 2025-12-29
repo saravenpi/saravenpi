@@ -1,4 +1,4 @@
-<h1 align="center">Hey ! I'm Sara</h1>
+<h1 align="center">Hey ! I'm Yann</h1>
 
 ### My languages
   - 🇫🇷 French (Native)
