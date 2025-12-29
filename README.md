@@ -12,7 +12,7 @@ I'm a french developer that loves staying in it's terminal to code open source p
 ### Reach me
   - 📫 You can reach me on [Matrix](https://matrix.org/): @saravenpi:matrix.org
   - 🌱 Here is my [website](https://saravenpi.me)
-  - 💼 Professional email: yann@klysium.com
+  - 💼 Professional email: yann@kaktuse.net
 
 ### Support me
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/saravenpi)
